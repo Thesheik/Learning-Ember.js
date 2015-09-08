@@ -1,9 +1,12 @@
 # Learning-Ember.js
 Why did you choose this subject?
+
 -- I choose Ember.js because it is familiar to some of the Javascript frameworks we have covered in class.
 How were you first made aware of it?
+
 -- N/A
 What problem does it solve?
+
 -- Ember.js manages the complexity of a large application
 How does it solve the problem (conceptually)?
 -- N/A
